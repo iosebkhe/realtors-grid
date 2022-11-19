@@ -7,7 +7,7 @@ Realtors website
 
 - Live Site URL: [Click here](https://realtors-iosebkhe.netlify.app/)
 
-### created with
+### Created with
 
 - Semantic HTML5 markup
 - CSS custom properties

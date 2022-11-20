@@ -13,7 +13,7 @@ Realtors website
 - CSS custom properties
 - Flexbox
 - Grid
-- Responsive layout
+- Mobile-first workflow
 
 ## Author
 
